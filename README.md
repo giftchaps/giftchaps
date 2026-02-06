@@ -1,4 +1,6 @@
+
 <div align="center">
+  <img src="https://media.giphy.com/media/...your-cyber-gif-url..." width="400" alt="cyber gif">
   <h1>Hi, I’m Gift Chapfuradombo 👋</h1>
 
   <p>
